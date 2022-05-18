@@ -1,2 +1,5 @@
-# pipeline
-CI/CD Pipeline on GCP
+# PIPELINE ON GCP 
+CI/CD -Tools 
+- Terraform
+- Cloud Run
+- Cloud Build
